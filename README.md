@@ -11,7 +11,7 @@
   
   Create the instances of Fulltime Employee class and Employee class and call their member functions
 
-2. Numpy\
+2. Numpy
 
  Using NumPy create random vector of size 20 having only float in the range 1-20.
  
