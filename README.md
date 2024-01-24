@@ -20,3 +20,5 @@
   Then replace the max in each row by 0 (axis=1)
   
   (you can NOT implement it via for loop)
+
+Video Link:https://drive.google.com/drive/u/2/folders/16KJBXjIu7kzg3890-AwYcmayOfJHek9X
